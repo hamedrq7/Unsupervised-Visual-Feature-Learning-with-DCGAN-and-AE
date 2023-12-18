@@ -1,0 +1,2 @@
+- Trained a Deep Convolutional GAN and a Denoising AE on a multi-domain image dataset.
+- Used the Discriminator of GAN and the encoder of AE as a feature extractor for classification.
